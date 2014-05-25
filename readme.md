@@ -18,6 +18,10 @@ This script was tested on [Processing 2.2.1](https://www.processing.org/download
 
 With the script loaded in Processing, have a GIF named `input.gif` in the same directory. Run the script and the glitched version will be generated. To save the output to GIF, press any key and it will be saved `output.gif`.
 
+## Known Issues
+
+  * Rarely, the JPEG corruption can fail and prevent the script from finishing. Usually you can just run the script again.
+
 ## Version History
 
 ### 2014-05-25 - v1
