@@ -1,3 +1,5 @@
+This script is deprecated in favor of [Modular Modifier](https://github.com/ianharmon/modular-modifier)
+
 # GIF Glitcher
 
 ## Description
